@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Feature: Create HUB Models from CLI or Python Script (#7316)
