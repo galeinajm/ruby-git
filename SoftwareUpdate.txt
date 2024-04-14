@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add quantization support to TensorFlow.js converter (#7008)
